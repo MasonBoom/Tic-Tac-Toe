@@ -18,10 +18,10 @@ This is a two player tic-tac-toe command line game. Player 1 represents X on the
 
 Here is what the game should look like when it is running locally
 
-start game:
+Start game:
 
 ![](https://github.com/MasonBoom/Tic-Tac-Toe/blob/5a9253d22b8efc7c2b24f215b0cfc6315132d805/images/play.cpp%20-%20Tic-Tac-Toe%20-%20Visual%20Studio%20Code%204_21_2022%205_44_23%20AM%20(2).png)
 
-end game:
+End game:
 
 ![](https://github.com/MasonBoom/Tic-Tac-Toe/blob/346d432140218074240c2baaea47b05e26f0edf2/images/play.cpp%20-%20Tic-Tac-Toe%20-%20Visual%20Studio%20Code%204_21_2022%205_45_22%20AM%20(2).png)
