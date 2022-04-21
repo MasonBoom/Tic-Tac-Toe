@@ -20,7 +20,7 @@ Here is what the game should look like when it is running locally
 
 start game:
 
-![]()
+![](https://github.com/MasonBoom/Tic-Tac-Toe/blob/5a9253d22b8efc7c2b24f215b0cfc6315132d805/images/play.cpp%20-%20Tic-Tac-Toe%20-%20Visual%20Studio%20Code%204_21_2022%205_44_23%20AM%20(2).png)
 
 end game:
 
